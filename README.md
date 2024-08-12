@@ -127,6 +127,66 @@ About Me = [
     <br>
 
 <!--START_SECTION:PythonicVarun-->
+![Code Time](http://img.shields.io/badge/Code%20Time-679%20hrs%2039%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-130%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 10 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 1 Public Repository 
+ > 
+> 🔑 0 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                5 commits           ██████████████████░░░░░░░   71.43 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                2 commits           ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   5 commits           ██████████████████░░░░░░░   71.43 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   2 commits           ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Shell** 
+
+```text
+Shell                    1 repo              █████████████████████████   100.00 % 
+```
+
+
+
 
 <!--END_SECTION:PythonicVarun-->
 
