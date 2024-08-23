@@ -191,6 +191,14 @@ Shell                    1 repo              ███████████�
 <!--END_SECTION:PythonicVarun-->
 
 </div>
+
+<div>
+    <div align="center">
+        <h2>Listen with me 🎶</h2>
+        <a href="https://github.com/PythonicVarun" target="_blank"><img src="https://spotify-readme.mrayush.in/?spin=true&scan=true&theme=dark" title="Spotify" /></a>
+    </div>
+</div>
+
 <br><br>
 
 <div>
