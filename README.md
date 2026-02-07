@@ -13,7 +13,7 @@
     </div>
     <div align="center">
         <a href="https://in.linkedin.com/in/VarunAgnihotri"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
-        <a href="mailto:varun@mrayush.me"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+        <a href="mailto:hello@pythonicvarun.me"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
         <a href="https://twitter.com/PythonicVarun"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
     </div>
     <div align="left">
@@ -26,9 +26,9 @@
         </p>
         <h1></h1>
         <ul>
-            <li>🔭 <b>I’m currently working on</b>: Python and NextJS.</li>
+            <li>🔭 <b>I’m currently working on</b>: Python and Machine Learning.</li>
             <li>🌱 <b>I’m currently learning</b>: GO.</li>
-            <li>💬 <b>Ask me about</b>: Web Development, API Developments and Competetive Programming.</li>
+            <li>💬 <b>Ask me about</b>: Web Development, API Developments and Competitive Programming.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>🤔 <b>I’m currently open for</b>: A new Internship opportunity and Open Source Projects.</li>
             <li>⚡ Fun fact: <b>I think I am boring</b>.</li>
