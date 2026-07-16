@@ -127,9 +127,9 @@ About Me = [
     <br>
 
 <!--START_SECTION:PythonicVarun-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C007%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C013%20hrs%203%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.32%20million%20lines%20of%20code-blue?style=flat)
 
@@ -137,7 +137,7 @@ About Me = [
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 3,410 Contributions in the Year 2026
+> 🏆 3,422 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -148,20 +148,20 @@ About Me = [
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3621 commits        █████████░░░░░░░░░░░░░░░░   34.89 % 
-🌆 Daytime                2526 commits        ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-🌃 Evening                3235 commits        ████████░░░░░░░░░░░░░░░░░   31.17 % 
-🌙 Night                  996 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+🌞 Morning                3624 commits        █████████░░░░░░░░░░░░░░░░   34.92 % 
+🌆 Daytime                2528 commits        ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+🌃 Evening                3234 commits        ████████░░░░░░░░░░░░░░░░░   31.16 % 
+🌙 Night                  992 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1521 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Monday                   1516 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
 Tuesday                  1657 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Wednesday                1309 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Thursday                 1512 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Wednesday                1319 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Thursday                 1513 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
 Friday                   1500 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Saturday                 1464 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Saturday                 1458 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
 Sunday                   1415 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
 ```
 
