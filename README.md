@@ -127,7 +127,7 @@ About Me = [
     <br>
 
 <!--START_SECTION:PythonicVarun-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.41%20million%20lines%20of%20code-blue?style=flat)
 
@@ -135,7 +135,7 @@ About Me = [
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 3,541 Contributions in the Year 2026
+> 🏆 3,592 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -143,45 +143,6 @@ About Me = [
  > 
 > 🔑 74 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3688 commits        █████████░░░░░░░░░░░░░░░░   34.58 % 
-🌆 Daytime                2651 commits        ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
-🌃 Evening                3313 commits        ████████░░░░░░░░░░░░░░░░░   31.06 % 
-🌙 Night                  1014 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1551 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Tuesday                  1691 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Wednesday                1337 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Thursday                 1552 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Friday                   1537 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Saturday                 1506 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Sunday                   1492 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               7 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   30.00 % 
-JavaScript               3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Markdown                 3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-CSS                      2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Python                   1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-
-🔥 Editors: 
-Zed                      16 hrs 45 mins      █████████████████░░░░░░░░   66.54 % 
-VS Code                  8 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   33.46 % 
-
-💻 Operating System: 
-Linux                    25 hrs 11 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
