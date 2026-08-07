@@ -127,62 +127,22 @@ About Me = [
     <br>
 
 <!--START_SECTION:PythonicVarun-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C073%20hrs%2040%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.39%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.40%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 3,776 Contributions in the Year 2026
+> 🏆 3,791 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 38 Public Repositories 
  > 
-> 🔑 78 Private Repositories 
+> 🔑 79 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3803 commits        █████████░░░░░░░░░░░░░░░░   34.22 % 
-🌆 Daytime                2814 commits        ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-🌃 Evening                3460 commits        ████████░░░░░░░░░░░░░░░░░   31.14 % 
-🌙 Night                  1035 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1568 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Tuesday                  1820 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Wednesday                1413 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Thursday                 1612 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Friday                   1623 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Saturday                 1526 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Sunday                   1550 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               1 hr                ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
-CSS                      44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-LaTeX                    30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-JSON                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Rust                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-
-🔥 Editors: 
-Zed                      3 hrs 57 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    3 hrs 57 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
