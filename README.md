@@ -127,17 +127,17 @@ About Me = [
     <br>
 
 <!--START_SECTION:PythonicVarun-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C115%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C115%20hrs%2054%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.04%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.03%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 4,193 Contributions in the Year 2026
+> 🏆 4,211 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -148,21 +148,21 @@ About Me = [
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4297 commits        █████████░░░░░░░░░░░░░░░░   34.82 % 
-🌆 Daytime                3052 commits        ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
-🌃 Evening                3904 commits        ████████░░░░░░░░░░░░░░░░░   31.63 % 
-🌙 Night                  1088 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+🌞 Morning                4283 commits        █████████░░░░░░░░░░░░░░░░   34.77 % 
+🌆 Daytime                3054 commits        ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
+🌃 Evening                3890 commits        ████████░░░░░░░░░░░░░░░░░   31.58 % 
+🌙 Night                  1090 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2056 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-Tuesday                  1958 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Wednesday                1467 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Thursday                 1899 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Friday                   1688 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Saturday                 1611 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Sunday                   1662 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Monday                   2030 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Tuesday                  1958 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Wednesday                1478 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Thursday                 1890 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Friday                   1688 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Saturday                 1611 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Sunday                   1662 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
 ```
 
 
@@ -170,18 +170,18 @@ Sunday                   1662 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-Markdown                 1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-TypeScript               1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-JSON                     1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Java                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Python                   2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
+Markdown                 1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+TypeScript               1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+JSON                     1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Java                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 
 🔥 Editors: 
-Zed                      7 hrs 33 mins       ████████████████░░░░░░░░░   64.97 % 
-VS Code                  4 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   35.03 % 
+Zed                      6 hrs 52 mins       ████████████████░░░░░░░░░   63.87 % 
+VS Code                  3 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   36.13 % 
 
 💻 Operating System: 
-Linux                    11 hrs 37 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
