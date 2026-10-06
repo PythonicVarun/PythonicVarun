@@ -127,7 +127,7 @@ About Me = [
     <br>
 
 <!--START_SECTION:PythonicVarun-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C148%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C148%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue?style=flat)
 
@@ -137,7 +137,7 @@ About Me = [
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 3,687 Contributions in the Year 2026
+> 🏆 3,691 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -148,21 +148,21 @@ About Me = [
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6522 commits        █████████░░░░░░░░░░░░░░░░   37.23 % 
-🌆 Daytime                4372 commits        ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
-🌃 Evening                5299 commits        ████████░░░░░░░░░░░░░░░░░   30.25 % 
-🌙 Night                  1324 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+🌞 Morning                6524 commits        █████████░░░░░░░░░░░░░░░░   37.23 % 
+🌆 Daytime                4372 commits        ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
+🌃 Evening                5301 commits        ████████░░░░░░░░░░░░░░░░░   30.25 % 
+🌙 Night                  1326 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2688 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Tuesday                  1988 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Monday                   2692 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Tuesday                  1989 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
 Wednesday                1635 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Thursday                 4690 commits        ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+Thursday                 4690 commits        ███████░░░░░░░░░░░░░░░░░░   26.76 % 
 Friday                   2696 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Saturday                 1957 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Sunday                   1863 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Saturday                 1958 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Sunday                   1863 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
 ```
 
 
@@ -170,18 +170,18 @@ Sunday                   1863 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   41.75 % 
-C++                      1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-shell script             43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+TypeScript               3 hrs 48 mins       ████████████░░░░░░░░░░░░░   47.48 % 
+shell script             43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+JSON                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Markdown                 36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+JavaScript               32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 
 🔥 Editors: 
-Zed                      9 hrs 12 mins       ████████████████████████░   97.64 % 
-VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Zed                      7 hrs 53 mins       █████████████████████████   98.34 % 
+VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 💻 Operating System: 
-Linux                    9 hrs 25 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
