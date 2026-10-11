@@ -137,7 +137,7 @@ About Me = [
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 3,725 Contributions in the Year 2026
+> 🏆 3,730 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -148,10 +148,10 @@ About Me = [
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6516 commits        █████████░░░░░░░░░░░░░░░░   37.03 % 
-🌆 Daytime                4395 commits        ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
-🌃 Evening                5354 commits        ████████░░░░░░░░░░░░░░░░░   30.43 % 
-🌙 Night                  1332 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+🌞 Morning                6518 commits        █████████░░░░░░░░░░░░░░░░   37.03 % 
+🌆 Daytime                4396 commits        ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+🌃 Evening                5355 commits        ████████░░░░░░░░░░░░░░░░░   30.42 % 
+🌙 Night                  1333 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
@@ -159,10 +159,10 @@ About Me = [
 Monday                   2665 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
 Tuesday                  1992 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
 Wednesday                1638 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Thursday                 4705 commits        ███████░░░░░░░░░░░░░░░░░░   26.74 % 
+Thursday                 4705 commits        ███████░░░░░░░░░░░░░░░░░░   26.73 % 
 Friday                   2716 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Saturday                 2017 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Sunday                   1864 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Saturday                 2021 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Sunday                   1865 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
 ```
 
 
@@ -170,18 +170,17 @@ Sunday                   1864 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 39 mins       ████████████░░░░░░░░░░░░░   48.36 % 
-Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-CSS                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Python                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-shell script             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+TypeScript               1 hr 28 mins        ████████████░░░░░░░░░░░░░   49.15 % 
+CSS                      29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Python                   28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+jsonc                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+shell script             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 🔥 Editors: 
-Zed                      5 hrs 21 mins       ████████████████████████░   97.61 % 
-VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Zed                      3 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 29 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
